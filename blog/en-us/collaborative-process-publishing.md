@@ -14,9 +14,9 @@ I won't talk about all kinds of likes and reposts. Many good suggestions and fee
 
 Hence, based on many discussions and the support of the joint graphite technical staff, the 2020 project community has determined the following collaborative process plan:
 
-![img](/images/blog/media/collaborative-process-publishing.webp)
+![img](/images/blog/media/collaborative-process-publishing-1.webp)
 
-****
+
 
 1. **All data collaborations take place in the graphite document. There is a table for each category, and everyone can view the contents in it. The collaborators invited can submit content, and each row is a record row.**
 
