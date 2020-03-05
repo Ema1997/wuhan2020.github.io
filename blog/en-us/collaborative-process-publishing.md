@@ -14,7 +14,7 @@ I won't talk about all kinds of likes and reposts. Many good suggestions and fee
 
 Hence, based on many discussions and the support of the joint graphite technical staff, the 2020 project community has determined the following collaborative process plan:
 
-![](/images/blog/media/collaborative-process-publishing.webp)
+![img](/images/blog/media/collaborative-process-publishing.webp)
 
 ****
 
